@@ -1,10 +1,12 @@
 ### Hi there 👋
 
+
+
 <!--
 **richardcoca/richardcoca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+### I am a first-year PhD student in the Graduate Program in Neuroscience at Boston University. For opportunities to collaborate, please reach me by emailing richcoca@bu.edu
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
